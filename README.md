@@ -162,10 +162,3 @@ Platform shortcuts:
 
 - Android icon inconsistencies
   - Confirm icon rendering uses Ionicons and mapping from utils/icon-map.ts
-
-## Future Improvements
-
-- Edit existing habits
-- Delete confirmation dialog
-- Optional cloud sync and backups
-- Automated tests for streak and storage logic
